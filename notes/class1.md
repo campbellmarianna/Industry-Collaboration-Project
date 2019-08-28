@@ -1,37 +1,50 @@
-# BEW 2.3 Web Security
-- Perspective
-- Each problem has its own sets of vulnerabilities
-- Teach you to be the attack, the defender,
-[DAY 1]
-- Fishing your information
-    - Being tricked to get your information
-- Lying is easier than coding
+# SPD 2.1 & 2.2
+Two Terms
 
-Activity I (how would )
-- get friends email (school)
-- email them requesting the password
-- ask
-- unintended
-- ask them security questions
-- asking and being someone they would give the phone number to
-- they put a password into your app and use that password into Netflix
-- tunder of
-Example of Social Engineers (packing it a deal you can't refuse)
-- Tailgating
-    - Look the part and get access to where you want
-    - Becoming friends
-- Quid Pro Quo + Baiting
-    - key loggers
-    Trading products
-    - USB
-- Pretexting
-Read
-- advice article
-- phones are networked
-- videos (ranstem ware, virtual machine)
-Activity II
+What new product development skill do I want to improve?
+- building out
+- REST API
+
+Product Scope
+1. 4-6 teammates
+2. Industry Collaboration
+
+New Competencies Gained
+1. Collaborate cross functionally to various stakeholders
+2. Managing teams effectively
+3. Utilize project management and decision making best practices to build a product
+4. Ship a product to actual users
+5. Conduct team sprints
+
+Two Term Timeline
+- Sprints through Thursday
+Term 1
+    - Product Requirements
+    - User Interviews & Testing
+    - Alpha
+MVP (Ship it and the end of Term 1)
+Term 2
+    - Data Driven Design & User Growth
+    - Presentation (end of December)
+
+What unique things can you learn/gain from industry collaboration?
+- You have to proven that you made value before you ask for value back
+
+Most WOW Experience with Interviewers
+- Have products that have users
+
+Don't drop the ball (call out Lyft)
+- Honor your skills and your team
+- Chance to represent Make School well to others
+
+Teams:
+- Vegan Justice League
+- Film
+- Immigrants
+
+Be prepared
+- Product Requirements Doc
+- Do tutorials on stack
+- Do research and find out what their needs are
+- Talk to people who are having this problem
 -
-- don't trust phone
-## Way that is approachable and inclusive for them
-- When it breaks this is awesome
-- All Quizes
