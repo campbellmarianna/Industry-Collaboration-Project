@@ -2,8 +2,8 @@
 Two Terms
 
 What new product development skill do I want to improve?
-- building out
-- REST API
+- building out backend related needs for a software project fast
+    - REST API
 
 Product Scope
 1. 4-6 teammates
