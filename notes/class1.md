@@ -47,4 +47,4 @@ Be prepared
 - Do tutorials on stack
 - Do research and find out what their needs are
 - Talk to people who are having this problem
--
+
