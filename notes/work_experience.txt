@@ -1,0 +1,14 @@
+- There were a lot of unknowns of how to connect the buttons
+- Edwin asked can I show you something or can I help in anyway
+- In pages do we want components
+- I realized after seeing the implementation on the course detail view how to give a route to a button in React and that is where things started to click for me
+
+Ask (Not Sure of):
+- useState in Nav how does that effect the rest of the app or other components on the page
+- I'm not sure I'm using the right state
+- How to handle sign in functionality with the Sign in Menu.item element
+- Can the sign in logic be put into the navbar component
+
+Thoughts for improvement:
+- Have the wireframes be more clear for desired output
+  - Example: for a course screen the desired colors so that it is a unified experience throughout the app
