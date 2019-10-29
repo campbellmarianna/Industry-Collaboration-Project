@@ -29,6 +29,6 @@ Write down every event:
 What do I want to track:
 - 
 
-# Data Driving our development work - its safer
+# Data Driving our development work - is safer
 
 # The more and more I talk about my site the more people go on the site
